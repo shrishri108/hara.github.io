@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.hara.cf/</loc>
+    <loc>/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>www.hara.cf/tags/hope/</loc>
+    <loc>/tags/hope/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>www.hara.cf/posts/hope/</loc>
+    <loc>/posts/hope/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>www.hara.cf/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>www.hara.cf/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>www.hara.cf/blog/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>www.hara.cf/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>

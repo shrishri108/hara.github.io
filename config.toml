@@ -1,4 +1,4 @@
-baseurl      = "www.hara.cf"
+baseurl      = "/"
 title        = "Blog | Hara"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
