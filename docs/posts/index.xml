@@ -28,15 +28,5 @@ It’s all a gamble!</p>
 ]]></content>
         </item>
         
-        <item>
-            <title>Example</title>
-            <link>https://shrishri108.github.io/posts/example/</link>
-            <pubDate>Thu, 13 Jan 2022 13:05:11 +0530</pubDate>
-            
-            <guid>https://shrishri108.github.io/posts/example/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
     </channel>
 </rss>

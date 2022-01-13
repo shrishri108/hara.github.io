@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - "hope"
 ---
 Of all the vile and pitiful tools in the disservice of humanity, hope takes the charge. While all of life is merely an attempt to budget breaths drawn, hope, in it’s melancholic glory convinces simple men to spend themselves in futility.
 
