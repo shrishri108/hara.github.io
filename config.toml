@@ -1,5 +1,5 @@
 baseurl      = "https://shrishri108.github.io"
-title        = "Blog|Hara"
+title        = "Blog | Hara"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -12,8 +12,7 @@ publishDir   = "docs"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeTitle="I am a Trader/Gambler/Programmer."
-  homeSubtitle = "Pondering on randomizers and Monte-Carlo Machines"
+  homeSubtitle = "I am a Trader/Gambler/Programmer, pondering on randomizers and Monte-Carlo Machines (for the most part).\n I intend to share my escapades with risk and probability."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -22,7 +21,7 @@ publishDir   = "docs"
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "I intent to share my escapades with risk and probability."
+  description = ""
   keywords = "homepage, blog"
   images = [""]
 
