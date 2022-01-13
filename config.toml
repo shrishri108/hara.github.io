@@ -53,3 +53,7 @@ publishDir   = "docs"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+    identifier = "goodreads"
+    name       = "Stuff I read"
+    url        = "https://www.goodreads.com/review/list/59402251-abhishek-singh?shelf=%23ALL%23"
