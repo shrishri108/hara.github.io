@@ -1,5 +1,5 @@
 ---
-title: "Hope"
+title: "On Hope"
 date: 2022-01-13T13:28:27+05:30
 draft: false
 toc: false
@@ -7,8 +7,6 @@ images:
 tags:
   - untagged
 ---
-On Hope
-
 Of all the vile and pitiful tools in the disservice of humanity, hope takes the charge. While all of life is merely an attempt to budget breaths drawn, hope, in it’s melancholic glory convinces simple men to spend themselves in futility.
 
 What else convinces a lone warrior to swing his sword one more time, to spend the last of his sinking breaths on an attempt so futile perhaps the gods laugh thunderously at the mere sight of it,what else whispers connivingly in the ears of a broke single-mother to sell her body to salivating dogs in mere hope of food on the table every night, what else persuades mortal men to take that chance, one more time?
