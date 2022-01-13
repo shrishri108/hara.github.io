@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>localhost/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>/tags/hope/</loc>
+    <loc>localhost/tags/hope/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>/posts/hope/</loc>
+    <loc>localhost/posts/hope/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>localhost/posts/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2022-01-13T13:28:27+05:30</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>localhost/blog/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>localhost/series/</loc>
   </url>
 </urlset>
