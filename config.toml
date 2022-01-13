@@ -12,13 +12,15 @@ publishDir   = "docs"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "I am a Trader/Gambler/Programmer, pondering on randomizers and Monte-Carlo Machines (for the most part).\n I intend to share my escapades with risk and probability."
+  homeSubtitle = "I am a Programmer/Trader/Gambler,in that order.
+                 <br>On a day to day basis, I work with all kinds of data, risk and probabilities.
+                 <br>I am very keen and passionate about data-analysis/poker/capital markets."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = ""
@@ -32,7 +34,7 @@ publishDir   = "docs"
 
 [languages]
   [languages.en]
-    title = "Blog|Hara"
+    title = "Blog.Hara"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
