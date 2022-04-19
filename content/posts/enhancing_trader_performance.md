@@ -55,7 +55,7 @@ We often talk about expertise as if it’s a quality that one possesses. One per
 ───
 
 Most important of all, Bloom’s work underscores that the achievement of elite performance cannot begin with the hard-core pursuit of mastery. It begins with the simple process of exploration: encountering a field, having fun with it, and seeing if it truly speaks to you.
-  
+
 
 ───
 
